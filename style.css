@@ -295,5 +295,15 @@ footer .linha2 a:hover {
         font-size: 15px;
     }
 
-    
+    /* footer*/
+
+    footer .linha1 {
+        flex-direction: column;
+    }
+
+    footer .endereço {
+        width: 95%;
+        margin-bottom: 20px;
+    }
+
 }
